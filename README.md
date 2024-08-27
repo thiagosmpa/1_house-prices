@@ -24,8 +24,6 @@ The dataset can be found [here](https://www.kaggle.com/competitions/house-prices
 * Scikit-learn
 * autoGluon
 
-![output](output/output.png)
-
 ### Conclusion
 
 AutoGluon is an AutoML tool that internally includes data preprocessing, model training, and the comparison of various models, including LightGBM, CatBoost, XGBoost, Random Forest, ExtraTrees, Neural Networks, K-Nearest Neighbors, Linear Models, and Weighted Ensembling. After training on all relevant models, AutoGluon compares the results and selects the model that offers the best performance.
