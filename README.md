@@ -2,7 +2,7 @@
 ### Project #1
 
 This project is part of the "100 Days to Get Hired" challenge. 
-c
+
 For my first project, I chose the well-known House Prices challenge on Kaggle. The tool used for the prediction will be autoGluon. 
 
 **Project Goals** 
@@ -23,3 +23,13 @@ The dataset can be found [here](https://www.kaggle.com/competitions/house-prices
 * NumPy
 * Scikit-learn
 * autoGluon
+
+![output](output/output.png)
+
+### Conclusion
+
+AutoGluon is an AutoML tool that internally includes data preprocessing, model training, and the comparison of various models, including LightGBM, CatBoost, XGBoost, Random Forest, ExtraTrees, Neural Networks, K-Nearest Neighbors, Linear Models, and Weighted Ensembling. After training on all relevant models, AutoGluon compares the results and selects the model that offers the best performance.
+
+However, the results were not acceptable. The graph below suggests a discrepancy between the actual and predicted values. Moreover, the correlation between the two variables was calculated to be 0.29, indicating a significant distance between them.
+
+![output](output/output.png)
