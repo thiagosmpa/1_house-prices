@@ -1,4 +1,4 @@
-## House Prices - Advanced Regression Techniques
+## House Prices - AutoGluon
 ### Project #1
 
 This project is part of the "100 Days to Get Hired" challenge. 
