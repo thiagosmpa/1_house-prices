@@ -31,3 +31,7 @@ AutoGluon is an AutoML tool that internally includes data preprocessing, model t
 However, the results were not acceptable. The graph below suggests a discrepancy between the actual and predicted values. Moreover, the correlation between the two variables was calculated to be 0.29, indicating a significant distance between them.
 
 ![output](output/output.png)
+
+### Next Steps
+
+The next step is to manually preprocess the data and use AutoGluon only for model training. This approach will allow for more control over the data preparation process, which could improve the model's performance by addressing specific issues within the dataset that may not have been adequately handled by the automatic preprocessing.
