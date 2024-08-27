@@ -2,7 +2,7 @@
 ### Project #1
 
 This project is part of the "100 Days to Get Hired" challenge. 
-
+c
 For my first project, I chose the well-known House Prices challenge on Kaggle. The tool used for the prediction will be autoGluon. 
 
 **Project Goals** 
